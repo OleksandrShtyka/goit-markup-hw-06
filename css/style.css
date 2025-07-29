@@ -685,8 +685,8 @@ address {
 }
 
 
-.team-socials-links:hover,
-.team-socials-links:focus {
+.team-social-links:hover,
+.team-social-links:focus {
   background-color: #404bbf;
 }
 
